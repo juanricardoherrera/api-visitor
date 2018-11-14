@@ -1,6 +1,6 @@
 ## YAML Template.
 server:
-    port: 8050
+    port: 7001
 
 app:
     env: dev
