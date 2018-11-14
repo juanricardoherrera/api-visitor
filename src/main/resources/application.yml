@@ -8,7 +8,7 @@ app:
     jwtExpirationInMs: 604800000
 
 gcloud:
-    project-id: arctic-pagoda-217320
+    project-id: tuel-test
     
 management:
     server:
