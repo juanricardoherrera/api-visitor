@@ -1,0 +1,16 @@
+## YAML Template.
+server:
+    port: 8050
+
+app:
+    env: dev
+    jwtSecret: JWTSuperSecretKey
+    jwtExpirationInMs: 604800000
+
+gcloud:
+    project-id: arctic-pagoda-217320
+    
+management:
+    server:
+        port: 9001
+        
