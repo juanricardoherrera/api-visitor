@@ -8,7 +8,7 @@ app:
     jwtExpirationInMs: 604800000
 
 gcloud:
-    project-id: tuel-test
+    project-id: tuel-test-dev
     
 management:
     server:
